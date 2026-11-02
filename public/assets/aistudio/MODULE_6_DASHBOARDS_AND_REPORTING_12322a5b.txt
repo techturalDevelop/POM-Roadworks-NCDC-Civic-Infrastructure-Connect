@@ -1,0 +1,21 @@
+MODULE 6: DASHBOARDS AND REPORTING
+
+Provide separate dashboards for public information, engineering operations, management and communications.
+
+Display appropriate indicators such as:
+
+Active and upcoming roadworks.
+
+Outstanding maintenance tasks.
+
+Asset condition distribution.
+
+Overdue inspections.
+
+Public reports by status.
+
+Notices awaiting approval.
+
+Delayed projects and upcoming milestones.
+
+Use sample data only and clearly identify demonstration metrics.

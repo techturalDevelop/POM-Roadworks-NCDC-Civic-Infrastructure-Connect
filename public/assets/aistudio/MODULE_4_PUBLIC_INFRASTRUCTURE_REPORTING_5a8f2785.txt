@@ -1,0 +1,21 @@
+MODULE 4: PUBLIC INFRASTRUCTURE REPORTING
+
+Create a mobile-friendly form for reports concerning potholes, drainage, damaged signs, streetlights and other configurable infrastructure issues.
+
+Support:
+
+Location selection.
+
+Description and optional photo attachment.
+
+Unique report reference.
+
+Submission confirmation.
+
+Duplicate-report review.
+
+Status tracking.
+
+Internal assignment and inspection workflow.
+
+Clearly distinguish unverified public submissions from verified engineering findings.

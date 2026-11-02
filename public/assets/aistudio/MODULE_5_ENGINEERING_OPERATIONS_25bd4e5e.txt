@@ -1,0 +1,23 @@
+MODULE 5: ENGINEERING OPERATIONS
+
+Implement demonstration screens for:
+
+Inspection scheduling.
+
+Asset condition assessments.
+
+Defect registers.
+
+Maintenance work orders.
+
+Officer and team assignment.
+
+Priority, due dates and status.
+
+Completion evidence.
+
+Linked roadwork projects.
+
+Maintenance history and operational reports.
+
+Include a configurable risk-priority framework for human review. Do not allow AI to certify safety or make autonomous statutory, financial or engineering decisions.

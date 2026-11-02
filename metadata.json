@@ -1,0 +1,8 @@
+{
+  "name": "Remix POM Roadworks \u0026 NCDC Civic Infrastructure Connect",
+  "description": "Digital public portal and secure municipal operations platform for roadworks, infrastructure asset management, official notices, and civic defect reporting across Port Moresby, National Capital District, PNG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

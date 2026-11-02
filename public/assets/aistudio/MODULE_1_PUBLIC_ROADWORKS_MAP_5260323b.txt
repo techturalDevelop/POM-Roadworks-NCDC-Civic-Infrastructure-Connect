@@ -1,0 +1,13 @@
+MODULE 1: PUBLIC ROADWORKS MAP
+Implement:
+-OpenStreetMap-based interactive map.
+-Color-coded markers for planned, active, completed and suspended roadworks.
+-Separate visual indicators for impact or severity.
+-Search by road, suburb, landmark and project reference.
+-Filters by status, location, impact and date.
+-Map and list view toggle.
+-Roadwork detail panels.
+-Work descriptions, schedules, last-updated timestamps and approved alternative-route information.
+-Mobile-responsive layout and accessible map controls.
+-Clear OpenStreetMap attribution.
+-Use geographically plausible Port Moresby sample records, explicitly marked as unverified demonstration data.

@@ -1,0 +1,19 @@
+MODULE 2: INFRASTRUCTURE ASSET REGISTER
+
+Create a searchable asset register supporting:
+
+Roads and road segments.
+
+Drainage and culverts.
+
+Bridges and structures.
+
+Streetlights and traffic signs.
+
+Other asset categories configurable by authorized administrators.
+
+Each asset must support a unique ID, category, location, responsible authority, description, condition, inspection history, photographs, maintenance history and next inspection date.
+
+Provide asset detail pages, map locations, filters and links to related projects, reports and work orders.
+
+Do not fabricate engineering certification or actual NCDC asset data.

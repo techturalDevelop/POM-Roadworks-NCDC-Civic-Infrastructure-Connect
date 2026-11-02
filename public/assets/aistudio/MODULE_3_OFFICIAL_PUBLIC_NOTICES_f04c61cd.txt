@@ -1,0 +1,19 @@
+MODULE 3: OFFICIAL PUBLIC NOTICES
+
+Create a notice-management interface with:
+
+Notice reference, title, category and issuing department.
+
+Description, affected location, effective dates and expiry.
+
+Supporting documents and map links.
+
+Draft, under review, approved, scheduled, published, expired and archived states.
+
+Drafting, review, approval, scheduling and publishing workflows.
+
+Notice preview before publication.
+
+Change history and publication timestamps.
+
+Only authorized users may approve and publish official notices. Drafts must never appear as official public notices.
